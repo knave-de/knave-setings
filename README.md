@@ -1,2 +1,3 @@
-# knave-setings
-Settings App for Knave Desktop Environment
+# Knave Settings
+
+Settings app for the Knave Desktop Environment.
